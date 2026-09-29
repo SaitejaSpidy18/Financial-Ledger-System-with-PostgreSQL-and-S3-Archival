@@ -1,0 +1,10 @@
+﻿{
+  "dbCredentials": {
+    "user": "ledger_admin",
+    "dbName": "financial_ledger"
+  },
+  "tableNames": {
+    "accounts": "accounts",
+    "transactions": "ledger_transactions"
+  }
+}
